@@ -2,7 +2,7 @@
 
 Meu nome é Vinícius Brandão
 
-- estou estudando na Alura
+- estou estudando na [Alura](https://www.alura.com.br)
 - estou me desenvolvendo na linguagem JavaScript
 - utilizo esse espaço para organização e compartilhamento de projetos
 
@@ -13,4 +13,4 @@ Meu nome é Vinícius Brandão
 @viniciusbrandao
 
 
-! [ ] (https://media1.tenor.com/m/Jj8abeFDvv0AAAAC/hyunrmin.gif)
+![](https://media1.tenor.com/m/Jj8abeFDvv0AAAAC/hyunrmin.gif)
